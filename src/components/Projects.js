@@ -14,7 +14,7 @@ class Projects extends Component{
     render(){
         return(
             <div className='projects'>
-                <Typography variant='h4' align='center'>Projects</Typography>
+                <Typography style={{marginTop: '30px'}} variant='h4' align='center'>Projects</Typography>
                 <div className='projects__cards'>
                     <div className='projects__cards__card'>
                         <img className='projects__cards__image' src='https://res.cloudinary.com/sparks-full-stack/image/upload/v1539903340/auto%20review%20for%20you.png' />
