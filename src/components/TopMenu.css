@@ -1,0 +1,16 @@
+.topMenu {
+    flex-grow: 1;
+}
+
+.topMenu__social{
+    align-self: flex-end;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.logo {
+position: relative;
+  top: 50%;
+  transform: translateY(50%);
+}
