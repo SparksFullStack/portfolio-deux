@@ -4,7 +4,7 @@ import './About.css';
 
 const styles = {
     icons: {
-        
+        marginRight: '10px'
     }
 }
 
