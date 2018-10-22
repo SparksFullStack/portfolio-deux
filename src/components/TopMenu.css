@@ -2,15 +2,31 @@
     flex-grow: 1;
 }
 
-.topMenu__social{
-    align-self: flex-end;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+.appBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.logo {
+.topMenu__social {
+    max-width: 50%;
+    align-self: flex-end;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* .topMenu__social{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.topMenu__social__icons {
+    margin-right: 5;
+}
+
+.topMenu__logo {
 position: relative;
   top: 50%;
   transform: translateY(50%);
-}
+} */
