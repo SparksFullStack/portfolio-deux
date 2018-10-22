@@ -1,14 +1,6 @@
 import React, { Component, Fragment } from 'react';
-import { Typography, Card } from '@material-ui/core';
-import { Carousel } from 'react-responsive-carousel';
+import { Typography, Paper } from '@material-ui/core';
 import './Projects.css'
-
-const styles = {
-    carouselTextStyles: {
-        marginLeft: 'auto',
-        marginRight: 'auto'
-    }
-}
 
 class Projects extends Component{
     render(){

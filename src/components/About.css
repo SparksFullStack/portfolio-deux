@@ -1,0 +1,40 @@
+.about {
+    margin-top: 40px;
+    border-top: 1px solid grey;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.about__card {
+    margin-top: 30px;
+    width: 40%;
+    display: flex; 
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about__card__info {
+    width: 50%;
+}
+
+.about__card__contact {
+    width: 50%;
+    /* align-items: center; */
+}
+
+.test {
+    align-self: center;
+    display: flex; 
+    justify-content: center;
+}
+
+.about__cards__contact__icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

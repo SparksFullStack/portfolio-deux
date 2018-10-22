@@ -6,6 +6,7 @@ import './App.css';
 import TopMenu from './components/TopMenu';
 import Landing from './components/Landing';
 import Projects from './components/Projects';
+import About from './components/About';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <TopMenu />
         <Landing />
         <Projects />
+        <About />
       </div>
     );
   }
