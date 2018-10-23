@@ -2,6 +2,10 @@
     flex-grow: 1;
 }
 
+.MuiPaper-root-10 {
+    background-color: #3f67a0 !important;
+}
+
 .appBar {
     display: flex;
     align-items: center;

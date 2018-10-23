@@ -26,7 +26,7 @@ const styles = {
 class TopMenu extends Component{
     render(){
         return(
-            <div className={styles.root}>
+            <div className='topMenu'>
                 <AppBar position="static">
                     <Toolbar style={styles.toolbar}>
                         <Typography variant="h6" color="inherit" className={styles.grow}>
