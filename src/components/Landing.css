@@ -1,6 +1,6 @@
 .landing {
     height: 400px;
-    background-color: #7195d1 !important;
+    background-color: #c8cfdd !important;
 }
 
 .landing__content {
@@ -9,6 +9,7 @@
 }
 
 .coverImage {
+    margin-top: 10px;
     width: 300px;
     height: 300px;
     border-radius: 50%;
